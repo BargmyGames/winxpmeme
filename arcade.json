@@ -1,0 +1,24 @@
+﻿{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 590,
+	"viewport-height": 421,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "217",
+	"used-plugins": [
+		"Audio",
+		"Mouse",
+		"Sprite",
+		"TextBox",
+		"Touch"
+	],
+	"used-behaviors": [
+		"DragnDrop",
+		"Pin"
+	]
+}
